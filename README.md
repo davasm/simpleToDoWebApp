@@ -18,3 +18,8 @@ Este é um aplicativo de lista de tarefas (ToDo App) desenvolvido com React, Tai
 - React Ionicons
 - Node.JS npm
 - Vite
+
+## Acessar
+- Acesse a pasta principal react-todolist
+- no Terminal: npm run dev
+- Acesse o local host
