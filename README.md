@@ -20,8 +20,12 @@ Este é um aplicativo de lista de tarefas (ToDo App) desenvolvido com React, Typ
 - Vite
 
 ## Acessar
-- No terminal:
+
+No terminal:
+```sh
 cd react-todolist
 npm install
 npm run dev
-- Acesse o localhost
+```
+
+Acesse o localhost.
